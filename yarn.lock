@@ -374,6 +374,11 @@
     svelte-hmr "^0.16.0"
     vitefu "^0.2.5"
 
+"@sweetalert2/theme-dark@^5.0.18":
+  version "5.0.18"
+  resolved "https://registry.yarnpkg.com/@sweetalert2/theme-dark/-/theme-dark-5.0.18.tgz#e070da21b74eec8ba3420c26cf5bd64ed480dd05"
+  integrity sha512-Fdt8OQHQcbJy6i+rvA49h3OAzQevMwDgfsHPdR2kNwT5M7AtG5rAaBBo0StlvNbcTx/AQ5xhEdMyJdnM05CNoQ==
+
 "@types/cookie@^0.6.0":
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/@types/cookie/-/cookie-0.6.0.tgz#eac397f28bf1d6ae0ae081363eca2f425bedf0d5"
@@ -1622,6 +1627,11 @@ svelte@^4.2.7:
     locate-character "^3.0.0"
     magic-string "^0.30.4"
     periscopic "^3.1.0"
+
+sweetalert2@^11.12.4:
+  version "11.12.4"
+  resolved "https://registry.yarnpkg.com/sweetalert2/-/sweetalert2-11.12.4.tgz#2f7cc2663dab7845f33d5abd6ce3f642a09b91dd"
+  integrity sha512-ZSpyaLbAmn4b7xjnV9x9BFD1UOrCAhIzm1D8dZ443kGxtVKqbTIA5SgXs4xeEtmFfEXUyC3RBgpSlu1AXmCiHA==
 
 text-table@^0.2.0:
   version "0.2.0"
