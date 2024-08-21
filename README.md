@@ -1,6 +1,8 @@
 # sweetalert2-sveltekit-typescript-issue-demo
 a minimal reproduction repo for an issue with sweetalert in combination with sveltekit using typescript.
 
+## ⚠️ this is resolved: checkout https://github.com/sweetalert2/sweetalert2/issues/2752#issuecomment-2302129790
+
 ## how to run?
 
 ### clone
